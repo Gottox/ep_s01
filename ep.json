@@ -1,0 +1,8 @@
+{
+	"parts": [
+		{
+			"name": "s01",
+			"client_hooks": { "postAceInit": "ep_s01/static/js/s01" }
+		}
+	]
+}
